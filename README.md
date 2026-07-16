@@ -1,4 +1,4 @@
-\# CareerLens AI 🚀
+# CareerLens AI 🚀
 
 
 
@@ -6,59 +6,59 @@ CareerLens AI is a machine learning powered career intelligence platform that an
 
 
 
-\- Salary prediction
+- Salary prediction
 
-\- Career path recommendations
+- Career path recommendations
 
-\- Skill demand forecasting
+- Skill demand forecasting
 
-\- Job role matching
+- Job role matching
 
-\- Job market analytics
-
-
-
-\## Features
+- Job market analytics
 
 
 
-\- 📊 Interactive dashboard
-
-\- 🤖 Machine learning models
-
-\- 💰 Salary prediction
-
-\- 🧠 Skill demand forecasting
-
-\- 📍 Location-based job insights
-
-\- 📈 Analytics hub with visualizations
+## Features
 
 
 
-\## Tech Stack
+- 📊 Interactive dashboard
+
+- 🤖 Machine learning models
+
+- 💰 Salary prediction
+
+- 🧠 Skill demand forecasting
+
+- 📍 Location-based job insights
+
+- 📈 Analytics hub with visualizations
 
 
 
-\- Python
-
-\- Streamlit
-
-\- Scikit-learn
-
-\- XGBoost
-
-\- Prophet
-
-\- Plotly
-
-\- Pandas
-
-\- NumPy
+## Tech Stack
 
 
 
-\## Dataset
+- Python
+
+- Streamlit
+
+- Scikit-learn
+
+- XGBoost
+
+- Prophet
+
+- Plotly
+
+- Pandas
+
+- NumPy
+
+
+
+## Dataset
 
 
 
@@ -66,19 +66,18 @@ CareerLens AI is a machine learning powered career intelligence platform that an
 
 
 
-\- Skills
+- Skills
 
-\- Salary
+- Salary
 
-\- Company
+- Company
 
-\- Location
+- Location
 
-\- Experience
+- Experience
 
 
-
-\## Run Locally
+## Run Locally
 
 
 
@@ -102,7 +101,7 @@ streamlit run app.py
 
 
 
-\## Author
+## Author
 
 
 
